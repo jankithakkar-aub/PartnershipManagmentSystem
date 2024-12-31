@@ -1,0 +1,2 @@
+# PartnershipManagmentSystem
+# PartnershipManagmentSystem
